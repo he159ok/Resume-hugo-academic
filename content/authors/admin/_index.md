@@ -1,26 +1,21 @@
 ---
 title: Jianfeng He 何建锋
 role: Fifth year Ph.D. student
-avatar_filename: null
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpeg
+bio: My research interests are mainly in uncertainty estimation in
+  NLP/multi-modality. I am also interested in guided image manipulation.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Uncertainty Estimation
+  - Natural Language Processing
+  - Computer Vision
+  - Multi-modal
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=_gAf96sAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -35,23 +30,25 @@ organizations:
     url: https://www.vt.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Virginia Tech
+      year: ""
+    - course: MSc in Computer Science
+      institution: University of Chinese Academy of Sciences
+      year: ""
+    - course: BSc in Digital Media Technology
+      institution: Central China Normal University
+      year: ""
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: jianfenghe AT vt DOT edu
 ---
+Hi, everyone! My name is Jianfeng He. It is so honor to meet you all.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Besides being a new member in Amazon, I am also a 5th-year Ph.D student in the CS@Virginia Tech. I research on computer vision, natural language processing. For the computer vision, I focus on guided image editing. For the natural language processing, I study on the uncertainty analysis in its applications. In addition, I worked on cross-modal retrieval when I was a master student in the University of Chinese Academy of Sciences. 
+
 {style="text-align: justify;"}
