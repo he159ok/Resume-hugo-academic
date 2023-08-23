@@ -21,11 +21,7 @@ abstract: |-
   our proposed uncertainty relations. Specifically, we explore four
   model structures in CLUR to investigate the performance of three
   common-used contrastive learning components in UEFTC and find
-  that two of the components are effective. Experiment results prove
-  that CLUR outperforms six baselines on four datasets, including
-  an improvement of 4.52% AUPR on an RCV1 dataset in a 5-way
-  1-shot setting. Our code and data split for UEFTC are in https:
-  //github.com/he159ok/CLUR_UncertaintyEst_FewShot_TextCls
+  that two of the components are effective. 
 slides: ""
 url_pdf: ""
 publication_types:
@@ -57,7 +53,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: few-shot-case.png
+  filename: featured.png
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
