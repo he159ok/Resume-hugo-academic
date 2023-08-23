@@ -1,4 +1,17 @@
 ---
+title: "CLUR: Uncertainty Estimation for Few-Shot Text Classification with
+  Contrastive Learning"
+publication_types:
+  - "1"
+authors:
+  - J.He
+  - X. Zhang
+  - S. Lei
+  - F. Chen
+  - A. Alhamadani
+  - B. Xiao
+  - C. Lu.
+publication_short: ""
 abstract: |-
   Few-shot text classification has extensive application where the
   sample collection is expensive or complicated. When the penalty
@@ -22,38 +35,26 @@ abstract: |-
   model structures in CLUR to investigate the performance of three
   common-used contrastive learning components in UEFTC and find
   that two of the components are effective. 
-slides: ""
-url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - J.He
-  - X. Zhang
-  - S. Lei
-  - F. Chen
-  - A. Alhamadani
-  - B. Xiao
-  - C. Lu.
-author_notes: []
-publication: In *SIGKDD 2023 (research track)*
-summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
-title: "CLUR: Uncertainty Estimation for Few-Shot Text Classification with
-  Contrastive Learning"
-doi: ""
+draft: false
 featured: true
 tags:
   - Few-shot Uncertainty Estimation
-projects: []
+slides: ""
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
+summary: ""
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+author_notes: []
+doi: ""
+publication: In *SIGKDD 2023 (research track)*
+projects: []
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
