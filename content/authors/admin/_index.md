@@ -18,10 +18,10 @@ social:
     link: https://scholar.google.com/citations?user=_gAf96sAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/he159ok/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jianfeng-he-5a1b651b7/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
