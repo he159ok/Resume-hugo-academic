@@ -1,7 +1,7 @@
 ---
 title: Jianfeng He 何建锋
 role: Fifth year Ph.D. student
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests are mainly in uncertainty estimation in
   NLP/multi-modality. I am also interested in guided image manipulation.
 interests:
