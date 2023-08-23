@@ -1,6 +1,7 @@
 ---
 title: Jianfeng He 何建锋
 role: Fifth year Ph.D. student
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
