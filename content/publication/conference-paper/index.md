@@ -27,7 +27,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - "**J.He**"
+  - J.He
   - X. Zhang
   - S. Lei
   - F. Chen
@@ -35,11 +35,11 @@ authors:
   - B. Xiao
   - C. Lu.
 author_notes: []
-publication: In *Wowchemy Conference*
+publication: In *SIGKDD 2023 (research track)*
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: SIGKDD 2023 (research track)
+publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: "CLUR: Uncertainty Estimation for Few-Shot Text Classification with
@@ -54,9 +54,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
