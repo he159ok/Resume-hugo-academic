@@ -47,10 +47,10 @@ image:
   preview_only: false
   filename: featured.png
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 author_notes: []
 doi: ""
 publication: In *SIGKDD 2023 (research track)*
@@ -59,7 +59,7 @@ date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 ---
 
 {{% callout note %}}
