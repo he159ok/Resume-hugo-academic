@@ -1,79 +1,68 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: |-
+  Few-shot text classification has extensive application where the
+  sample collection is expensive or complicated. When the penalty
+  for classification errors is high, such as early threat event detection
+  with scarce data, we expect to know “whether we should trust the
+  classification results or reexamine them.” This paper investigates the
+  Uncertainty Estimation for Few-shot Text Classification (UEFTC),
+  an unexplored research area. Given limited samples, a UEFTC model
+  predicts an uncertainty score for a classification result, which is
+  the likelihood that the classification result is false. However, many
+  traditional uncertainty estimation models in text classification are
+  unsuitable for implementing a UEFTC model. These models require
+  numerous training samples, whereas the few-shot setting in UEFTC
+  only provides a few or just one support sample for each class in
+  an episode. We propose Contrastive Learning from Uncertainty
+  Relations (CLUR) to address UEFTC. CLUR can be trained with
+  only one support sample for each class with the help of pseudo
+  uncertainty scores. Unlike previous works that manually set the
+  pseudo uncertainty scores, CLUR self-adaptively learns them using
+  our proposed uncertainty relations. Specifically, we explore four
+  model structures in CLUR to investigate the performance of three
+  common-used contrastive learning components in UEFTC and find
+  that two of the components are effective. Experiment results prove
+  that CLUR outperforms six baselines on four datasets, including
+  an improvement of 4.52% AUPR on an RCV1 dataset in a 5-way
+  1-shot setting. Our code and data split for UEFTC are in https:
+  //github.com/he159ok/CLUR_UncertaintyEst_FewShot_TextCls
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
+  - "**J.He**"
+  - X. Zhang
+  - S. Lei
+  - F. Chen
+  - A. Alhamadani
+  - B. Xiao
+  - C. Lu.
+author_notes: []
 publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+summary: ""
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: SIGKDD 2023 (research track)
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: "CLUR: Uncertainty Estimation for Few-Shot Text Classification with
+  Contrastive Learning"
+doi: ""
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags:
+  - Few-shot Uncertainty Estimation
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: few-shot-case.png
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
