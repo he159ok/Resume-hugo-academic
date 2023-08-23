@@ -44,13 +44,9 @@ url_pdf: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: falseå
   filename: featured.png
 summary: ""
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
 author_notes: []
 doi: ""
 publication: In *SIGKDD 2023 (research track)*
