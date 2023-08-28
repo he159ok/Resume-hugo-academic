@@ -12,6 +12,7 @@ authors:
   - C. Lu
   - D. Solnick
   - Y. Li.
+publication_short: SIGIR 2023 (demo paper).
 draft: false
 featured: false
 image:
