@@ -11,6 +11,9 @@ authors:
   - A. Alhamadani
   - B. Xiao
   - C. Lu.
+author_notes: []
+doi: ""
+publication: SIGKDD 2023 (research track)
 publication_short: ""
 abstract: |-
   Few-shot text classification has extensive application where the
@@ -36,21 +39,18 @@ abstract: |-
   common-used contrastive learning components in UEFTC and find
   that two of the components are effective. 
 draft: false
+slides: ""
+url_pdf: ""
 featured: true
 tags:
   - Few-shot Uncertainty Estimation
-slides: ""
-url_pdf: ""
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: falseå
   filename: featured.png
 summary: ""
-author_notes: []
-doi: ""
-publication: In *SIGKDD 2023 (research track)*
-projects: []
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
