@@ -45,16 +45,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Coding Language
+          description: Pythong, Matlab, C++, shell
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Machine Learning
+          description: PyTorch, Numpy, Linux
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Familar Task
+          description: Image/Text Understanding/Generation
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -69,19 +69,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Applied Scientist Intern
+          company: AWS AI Lab
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: ''
+          location: Seattle
+          date_start: 'May 2023'
+          date_end: 'Aug 2023'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Address Semi-Supervised Dialogue Summarization
+              * Quantify the quality of generate summaries of each unlabeled dialogues
+              * Uncertainty Estimation on Dialogue Summarization
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
