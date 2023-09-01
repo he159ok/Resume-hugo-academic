@@ -45,7 +45,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: jianfenghe AT vt DOT edu
+email: jianfenghe@vt.edu
 ---
 Hi, everyone! My name is Jianfeng He. It is so honor to meet you all.
 
