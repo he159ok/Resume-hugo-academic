@@ -218,66 +218,123 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+
+[comment]: <> (  - block: collection)
+
+[comment]: <> (    id: talks)
+
+[comment]: <> (    content:)
+
+[comment]: <> (      title: Recent & Upcoming Talks)
+
+[comment]: <> (      filters:)
+
+[comment]: <> (        folders:)
+
+[comment]: <> (          - event)
+
+[comment]: <> (    design:)
+
+[comment]: <> (      columns: '2')
+
+[comment]: <> (      view: compact)
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+
+[comment]: <> (  - block: contact)
+
+[comment]: <> (    id: contact)
+
+[comment]: <> (    content:)
+
+[comment]: <> (      title: Contact)
+
+[comment]: <> (      subtitle:)
+
+[comment]: <> (      text: |-)
+
+[comment]: <> (        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.)
+
+[comment]: <> (      # Contact &#40;add or remove contact options as necessary&#41;)
+
+[comment]: <> (      email: test@example.org)
+
+[comment]: <> (      phone: 888 888 88 88)
+
+[comment]: <> (      appointment_url: 'https://calendly.com')
+
+[comment]: <> (      address:)
+
+[comment]: <> (        street: 450 Serra Mall)
+
+[comment]: <> (        city: Stanford)
+
+[comment]: <> (        region: CA)
+
+[comment]: <> (        postcode: '94305')
+
+[comment]: <> (        country: United States)
+
+[comment]: <> (        country_code: US)
+
+[comment]: <> (      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2)
+
+[comment]: <> (      office_hours:)
+
+[comment]: <> (        - 'Monday 10:00 to 13:00')
+
+[comment]: <> (        - 'Wednesday 09:00 to 10:00')
+
+[comment]: <> (      contact_links:)
+
+[comment]: <> (        - icon: twitter)
+
+[comment]: <> (          icon_pack: fab)
+
+[comment]: <> (          name: DM Me)
+
+[comment]: <> (          link: 'https://twitter.com/Twitter')
+
+[comment]: <> (        - icon: skype)
+
+[comment]: <> (          icon_pack: fab)
+
+[comment]: <> (          name: Skype Me)
+
+[comment]: <> (          link: 'skype:echo123?call')
+
+[comment]: <> (        - icon: video)
+
+[comment]: <> (          icon_pack: fas)
+
+[comment]: <> (          name: Zoom Me)
+
+[comment]: <> (          link: 'https://zoom.com')
+
+[comment]: <> (      # Automatically link email and phone or display as text?)
+
+[comment]: <> (      autolink: true)
+
+[comment]: <> (      # Email form provider)
+
+[comment]: <> (      form:)
+
+[comment]: <> (        provider: netlify)
+
+[comment]: <> (        formspree:)
+
+[comment]: <> (          id:)
+
+[comment]: <> (        netlify:)
+
+[comment]: <> (          # Enable CAPTCHA challenge to reduce spam?)
+
+[comment]: <> (          captcha: false)
+
+[comment]: <> (    design:)
+
+[comment]: <> (      columns: '2')
 ---
