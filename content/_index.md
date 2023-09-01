@@ -243,6 +243,7 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+---
 
 [comment]: <> (  - block: contact)
 
@@ -337,4 +338,5 @@ sections:
 [comment]: <> (    design:)
 
 [comment]: <> (      columns: '2')
----
+
+[comment]: <> (---)
