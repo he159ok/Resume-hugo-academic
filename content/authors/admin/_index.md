@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/jianfeng-he-5a1b651b7/
   - icon: cv
     icon_pack: ai
-    link: assets/media/resume.pdf
+    link: uploads/resume.pdf
 organizations:
   - name: Virginia Tech
     url: https://www.vt.edu/
