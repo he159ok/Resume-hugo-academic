@@ -49,6 +49,6 @@ email: jianfenghe AT vt DOT edu
 ---
 Hi, everyone! My name is Jianfeng He. It is so honor to meet you all.
 
-Besides being a new member in Amazon, I am also a 5th-year Ph.D student in the CS@Virginia Tech. I research on computer vision, natural language processing. For the computer vision, I focus on guided image editing. For the natural language processing, I study on the uncertainty analysis in its applications. In addition, I worked on cross-modal retrieval when I was a master student in the University of Chinese Academy of Sciences. 
+I am a 5th-year Ph.D. student in the CS@Virginia Tech. I research on computer vision, natural language processing. For the computer vision, I focus on guided image editing. For the natural language processing, I study on the uncertainty analysis in its applications. In addition, I worked on cross-modal retrieval when I was a master student in the University of Chinese Academy of Sciences. 
 
 {style="text-align: justify;"}
