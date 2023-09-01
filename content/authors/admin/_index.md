@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/jianfeng-he-5a1b651b7/
   - icon: cv
     icon_pack: ai
-    link: assets/media/resume.pdf
+    link: uploads/resume.pdf
 organizations:
   - name: Virginia Tech
     url: https://www.vt.edu/
@@ -45,7 +45,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: jianfenghe AT vt DOT edu
+email: jianfenghe@vt.edu
 ---
 Hi, everyone! My name is Jianfeng He. It is so honor to meet you all.
 
