@@ -32,7 +32,7 @@ sections:
         #  description: Chinese,English
          # icon: language
          # icon_pack: fas
-- block: experience
+  - block: experience
     content:
       title: Experience
       # Date format for experience
