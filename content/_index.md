@@ -62,7 +62,7 @@ sections:
           company_logo: org-x
           location: Seattle
           date_start: '2022-05-16'
-          date_end: '2020-08-05'
+          date_end: '2022-08-05'
           description: |2-
               Responsibilities include:
               * Address Zero-Shot Spoken Language Understanding
