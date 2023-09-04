@@ -28,41 +28,6 @@ sections:
           description: PyTorch, Numpy, Linux
           icon: chart-line
           icon_pack: fas
-       # - name: Languages
-        #  description: Chinese,English
-         # icon: language
-         # icon_pack: fas
-    - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Applied Scientist Intern
-          company: AWS AI Lab
-          company_url: ''
-          company_logo: University X
-          location: Seattle
-          date_start: '2023-05-15'
-          date_end: '2023-08-04'
-          description: Address Semi-Supervised Dialogue Summarization
-        - title: Applied Scientist Intern
-          company: AWS AI Lab
-          company_url: ''
-          company_logo: University X
-          location: Seattle
-          date_start: '2023-05-15'
-          date_end: '2023-08-04'
-          description: Address Zero-Shot Spoken Language Understanding
-    design:
-    columns: '2'
   - block: collection
     id: posts
     content:
