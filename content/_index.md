@@ -33,6 +33,7 @@ sections:
          # icon: language
          # icon_pack: fas
     - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -47,29 +48,19 @@ sections:
         - title: Applied Scientist Intern
           company: AWS AI Lab
           company_url: ''
-          company_logo: ''
+          company_logo: University X
           location: Seattle
-          date_start: 'May 2023'
-          date_end: 'Aug 2023'
-          description: |2-
-              Responsibilities include:
-
-              * Address Semi-Supervised Dialogue Summarization
-              * Quantify the quality of generate summaries of each unlabeled dialogues
-              * Uncertainty Estimation on Dialogue Summarization
+          date_start: '2023-05-15'
+          date_end: '2023-08-04'
+          description: Address Semi-Supervised Dialogue Summarization
         - title: Applied Scientist Intern
           company: AWS AI Lab
           company_url: ''
-          company_logo: ''
+          company_logo: University X
           location: Seattle
-          date_start: 'May 2022'
-          date_end: 'Aug 2022'
-          description: |2-
-              Responsibilities include:
-
-              * Address Zero-Shot Spoken Language Understanding
-              * Using audio-text pairs and text-semantics pairs (from different domains) to learn a SLU model.
-              * Selective Learning on Label Noise
+          date_start: '2023-05-15'
+          date_end: '2023-08-04'
+          description: Address Zero-Shot Spoken Language Understanding
     design:
     columns: '2'
   - block: collection
