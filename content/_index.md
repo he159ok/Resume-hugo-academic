@@ -44,16 +44,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Applied Scientist Intern
+          company: AWS AI Lab
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Seattle
+          date_start: '2023-05-15'
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Analysing
+              * Address Semi-Supervised Dialogue Summarization
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
