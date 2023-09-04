@@ -45,25 +45,29 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Applied Scientist Intern
-          company: AWS AI Lab
-          company_url: ''
-          company_logo: org-gc
-          location: Seattle
-          date_start: '2023-05-15'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-              * Address Semi-Supervised Dialogue Summarization
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          company: AWS AI Lab@Amazon
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Seattle
+          date_start: '2023-05-15'
+          date_end: '2023-08-04'
+          description: |2-
+              Responsibilities include:
+              * Address semi-supervised dialogue summarization
+              * Quantify the uncertainty of generated dialogues
+              * Present and write the paper for the project
+        - title: Applied Scientist Intern
+          company: AWS AI Lab@Amazon
+          company_url: ''
+          company_logo: org-x
+          location: Seattle
+          date_start: '2022-05-16'
+          date_end: '2020-08-05'
+          description: |2-
+              Responsibilities include:
+              * Address Zero-Shot Spoken Language Understanding
+              * Use audio-text pairs and text-semantics pairs to learn a spoken language processing   
+              * Present and write the paper for the project
     design:
       columns: '2'
   - block: collection
