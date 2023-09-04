@@ -36,6 +36,9 @@ education:
     - course: MSc in Computer Science
       institution: University of Chinese Academy of Sciences
       year: ""
+    - course: Visiting Student
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      year: ""
     - course: BSc in Digital Media Technology
       institution: Central China Normal University
       year: ""
@@ -47,8 +50,10 @@ highlight_name: true
 first_name: Alice
 email: jianfenghe@vt.edu
 ---
-Hi, everyone! My name is Jianfeng He. It is so honor to meet you all.
+Hi, everyone! My name is Jianfeng He. 
 
-I am a 5th-year Ph.D. student in the CS@Virginia Tech. I research on computer vision, natural language processing. For the computer vision, I focus on guided image editing. For the natural language processing, I study on the uncertainty analysis in its applications. In addition, I worked on cross-modal retrieval when I was a master student in the University of Chinese Academy of Sciences. 
+I am now actively looking for a research-related job either in the industry or academic.
+
+I am a 5th-year Ph.D. student in the CS@Virginia Tech. I research on computer vision, natural language processing. For the natural language processing, I study on the uncertainty analysis in its applications. For the computer vision, I focus on guided image editing. In addition, I worked on cross-modal retrieval when I was a master student in the University of Chinese Academy of Sciences. 
 
 {style="text-align: justify;"}
