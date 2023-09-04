@@ -56,7 +56,6 @@ sections:
               Responsibilities include:
               * Address semi-supervised dialogue summarization
               * Quantify the uncertainty of generated dialogues
-              * Present and write the paper for the project
         - title: Applied Scientist Intern
           company: AWS AI Lab@Amazon
           company_url: ''
@@ -67,8 +66,18 @@ sections:
           description: |2-
               Responsibilities include:
               * Address Zero-Shot Spoken Language Understanding
-              * Use audio-text pairs and text-semantics pairs to learn a spoken language processing   
-              * Present and write the paper for the project
+              * Use audio-text pairs and text-semantics pairs to learn a spoken language processing
+        - title: Research Intern
+          company: Tencent@NorthAmerica
+          company_url: ''
+          company_logo: org-x
+          location: Seattle
+          date_start: '2021-05-14'
+          date_end: '2021-08-06'
+          description: |2-
+              Responsibilities include:
+              * Pretrained Multimodal Chinese Dialogue Model
+              * Embedding the words, sentences and image in to the dialogue model
     design:
       columns: '2'
   - block: collection
