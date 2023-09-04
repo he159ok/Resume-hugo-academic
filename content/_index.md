@@ -16,20 +16,20 @@ sections:
     content:
       title: Skills
       items:
-        - name: Professional
-          description: Research,Communication,Leadship,Problem-solving,Team Collaboration
-          icon: user-tie
+        - name: Project
+          description: Image/Text Understanding/Generation
+          icon: r-project
           icon_pack: fas
         - name: Programming
-          description: Python, Java, C++, R, SQL, PL/SQL, ABAP
+          description: Python, Matlab, C++, Shell
           icon: code
           icon_pack: fas
-        - name: Productivity Framework
-          description: Pytorch, Toad(Oracle), SAP HANA, Android SDK, Tableau
+        - name: Machine Learning
+          description: PyTorch, Numpy, Linux1
           icon: microchip
           icon_pack: fas
        # - name: Languages
-        #  description: Arabic,English
+        #  description: Chinese,English
          # icon: language
          # icon_pack: fas
   #- block: experience
