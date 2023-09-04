@@ -28,13 +28,17 @@ sections:
           description: PyTorch, Numpy, Linux
           icon: chart-line
           icon_pack: fas
+       # - name: Languages
+        #  description: Arabic,English
+         # icon: language
+         # icon_pack: fas
   - block: experience
     id: experience
     content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
- #     date_format: Jan 2006
+    #     date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
