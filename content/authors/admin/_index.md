@@ -32,16 +32,16 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Virginia Tech
-      year: ""
+      year: "2019-2024"
     - course: MSc in Computer Science
       institution: University of Chinese Academy of Sciences
-      year: ""
+      year: "2014-2017"
     - course: Visiting Student
       institution: Institute of Computing Technology, Chinese Academy of Sciences
-      year: ""
+      year: "2015-2017"
     - course: BSc in Digital Media Technology
       institution: Central China Normal University
-      year: ""
+      year: "2010-2014"
 superuser: true
 status:
   icon: ☕️
