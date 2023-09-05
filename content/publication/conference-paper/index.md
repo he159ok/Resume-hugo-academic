@@ -51,9 +51,9 @@ image:
   preview_only: falseå
   filename: featured.png
 summary: ""
-date: 2023-07-01T00:00:00.000Z
+date: 2023-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2023-01-01T00:00:00.000Z
+publishDate: 2023-09-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
