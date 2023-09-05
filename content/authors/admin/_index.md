@@ -32,16 +32,19 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Virginia Tech
-      year: "2019-2024"
+      year: "2019.01-2024.05"
+    - course: First-semester PhD study
+      institution: University of Pittsburg
+      year: "2018.08-2018.12"
     - course: MSc in Computer Science
       institution: University of Chinese Academy of Sciences
-      year: "2014-2017"
+      year: "2014.09-2017.06"
     - course: Visiting Student
       institution: Institute of Computing Technology, Chinese Academy of Sciences
-      year: "2015-2017"
+      year: "2015.06-2017.06"
     - course: BSc in Digital Media Technology
       institution: Central China Normal University
-      year: "2010-2014"
+      year: "2010.09-2014.06"
 superuser: true
 status:
   icon: ☕️
