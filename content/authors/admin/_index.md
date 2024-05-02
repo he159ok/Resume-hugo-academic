@@ -55,9 +55,9 @@ email: jianfenghe@vt.edu
 ---
 Hi, everyone! My name is Jianfeng He. 
 
-I am now actively looking for a research-related job either in the industry or academic.
+I am a 5th-year Ph.D. student in the CS@Virginia Tech. I research on computer vision, natural language processing. For the natural language processing, I study on the uncertainty analysis in its applications (e.g., text classification, few-shot, named entity recognition, and text summarization). For the computer vision, I focus on guided image editing. In addition, I worked on cross-modal retrieval when I was a master student in the University of Chinese Academy of Sciences. 
 
-I am a 5th-year Ph.D. student in the CS@Virginia Tech. I research on computer vision, natural language processing. For the natural language processing, I study on the uncertainty analysis in its applications. For the computer vision, I focus on guided image editing. In addition, I worked on cross-modal retrieval when I was a master student in the University of Chinese Academy of Sciences. 
+I will join AWS as an Applied Scientist in the June 2024.
 
 My contact: jianfenghe@vt.edu
 
